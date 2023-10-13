@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DolgozokProject", "Dolgozok\DolgozokProject.csproj", "{A3F4228D-E639-4209-BEC5-314499DE3114}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DolgozokTest", "DolgozokTest\DolgozokTest.csproj", "{69A11606-DB72-4116-B6B2-6D19239610BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3F4228D-E639-4209-BEC5-314499DE3114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3F4228D-E639-4209-BEC5-314499DE3114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3F4228D-E639-4209-BEC5-314499DE3114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3F4228D-E639-4209-BEC5-314499DE3114}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69A11606-DB72-4116-B6B2-6D19239610BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69A11606-DB72-4116-B6B2-6D19239610BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69A11606-DB72-4116-B6B2-6D19239610BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69A11606-DB72-4116-B6B2-6D19239610BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F444C46-6910-4A1E-989A-F8649F22F242}
+	EndGlobalSection
+EndGlobal
